@@ -10,4 +10,4 @@ Here is the icon which is used in Task 2.
 
 
 ![arrow_icon](https://github.com/user-attachments/assets/03ff903b-43d1-4ab5-84d8-a95334d79ef5)
-![Uploading right_img.png…]()
+![right_img](https://github.com/user-attachments/assets/8b301308-e5ff-4387-bf9a-30adac4236c7)
